@@ -6,7 +6,7 @@ pipeline {
 
          stage('Buildin test container') {
             steps {
-                echo 'Hello Wgdfwgngfmmgjhmghjmghdhhhhhhhhhhhhhhhmghmghmghwregfwegfwgwfgeorld'
+                echo 'Hello Wgdfwgngfmmgjhmghjfwgwfgeorld'
             }
         }
 
