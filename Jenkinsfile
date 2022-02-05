@@ -21,7 +21,7 @@ pipeline {
 
          stage('Junit report') {
             steps {
-                echo 'Hello World'
+                echo 'Hem,jj,j,j,jllo World'
             }
         }
         
