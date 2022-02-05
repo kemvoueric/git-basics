@@ -2,13 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('cloning repo') {
-            steps {
-                echo 'Hello dgdfghbfdhedaWcchgmhgnmghjnthdfgccccorldbgfnfbnbgfdnbgdfngfngfngfnjhgfnjgfgbdgbfdhdfhdfghdgfbgf'
-            }
-        }
-
-
+     
 
          stage('Buildin test container') {
             steps {
